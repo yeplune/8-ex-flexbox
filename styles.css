@@ -1,0 +1,32 @@
+html{
+    background-color: rgb(113, 207, 176);
+}
+
+body{
+    margin: 0px;
+}
+
+.Nav-ess{
+
+}
+
+.site-links{
+     list-style-type: none;
+     padding: 0px;
+     display: flex;
+     background-color: rgb(68, 128, 98);
+}
+
+.inside-link{
+    background-color: rgb(254, 254, 255); 
+    padding: 10px;
+    margin: 0 10px;
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    display: inline-block;
+    border-radius: 5px;
+}
+
+.inside-link:hover{
+    background-color: rgb(221, 221, 221);
+}
